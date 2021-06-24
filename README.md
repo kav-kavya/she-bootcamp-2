@@ -1,2 +1,2 @@
 # she-bootcamp-2
-The first repo with css
+My first repo with css
