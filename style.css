@@ -1,0 +1,186 @@
+body{
+    padding: 0%;
+    margin:0%;
+    background-color: #f4f4f4;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+/*header*/
+
+header{
+    background: #143D59;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+
+header a{
+    color: #f4f4f4;
+    font-size: 20px;
+}
+
+
+header li{
+    display: inline;
+    padding: 0 20px;
+}
+
+#caption{
+    float: left;
+}
+
+
+#caption h1{
+    margin: 0;
+}
+
+header nav{
+    float:right;
+    margin-top: 10px;
+}
+
+header .highlight ,header .current a{
+    color: #F4B41A;
+    font-weight: bold;
+}
+
+
+header a:hover{
+    color: #cccccc;
+    font-weight: bold;
+}
+
+/*heeading*/
+
+#heading{
+    min-height: 500px;
+    background-image: url('https://itxitpro.com/front/img/web-development-services.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ffffff;
+    background-size: cover;
+}
+#heading h1{
+    margin-top: 100px;
+    margin-bottom: 0;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#search{
+    padding: 25px;
+    background: #143D59;
+}
+
+/*boxes*/
+
+#boxes{
+margin-top: 50px;
+
+}
+
+#boxes .box{
+float: left;
+padding: 10px;
+width: 30%;
+text-align: center;
+}
+
+#boxes .box img{
+width: 200px;
+}
+
+#boxes .box h2{
+font-weight: bolder;
+font-size: 30px;
+}
+
+#boxes .box p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20x;
+}
+/*slogan*/
+
+#slogan h3 {
+    text-align: center;
+    font-size: 58px;
+    font-weight: bold;
+    color: rgb(4, 158, 55);
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+#slogan p{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+#slogan h4{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/*form field*/
+
+#forms{
+    background-color: bisque;
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+#forms .form-group{
+    padding-bottom: 15px;
+    font-size: 20px;
+    color: #F4B41A;
+    font-weight: bold;
+}
+
+#forms label{
+    display: block;
+}
+
+/*video*/
+
+#videos .slogan{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(4, 158, 55);
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+#videos .video{
+    margin-top: 25px;
+    width:100%;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #143D59;
+    text-align: center;
+
+}
+
+
