@@ -1,2 +1,2 @@
 # she-bootcamp-2
-the second repo
+The first repo with css
